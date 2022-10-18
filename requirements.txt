@@ -1,0 +1,12 @@
+onnx
+nats-bench
+pymoo==0.6.0
+yacs
+torch==1.12.0
+torchvision==0.13.0
+torchaudio==0.12.0
+thop
+numpy==1.21.6
+tabulate
+tensorflow==2.9.2
+oapackage
